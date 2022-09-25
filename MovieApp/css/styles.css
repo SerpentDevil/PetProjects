@@ -55,6 +55,7 @@ body {
 .movie__cover {
   max-width: 100%;
   height: 100%;
+  border: #1a191f 1px solid;
 }
 
 .movie__cover--darkened {
